@@ -1,4 +1,4 @@
 
 
-Sample Java Applicaiton V1.233
+Sample Java Applicaiton V1.2.4
 tst
